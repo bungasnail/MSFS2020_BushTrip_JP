@@ -1,7 +1,7 @@
 # MSFS2020_BushTrip_JP
 #MicroSoft Flight Simulator 2020 BushTrip 日本語表示
 
-2020年09月19日 Bunga777
+2020年09月23日 Bunga777
 
 # はじめに
 ※こちらのファイルはhideGさん作成の日本語訳ですが、  
